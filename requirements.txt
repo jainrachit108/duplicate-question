@@ -3,3 +3,4 @@ sklearn
 fuzzywuzzy
 numpy
 bs4
+nltk
