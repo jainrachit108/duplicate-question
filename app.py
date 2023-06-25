@@ -2,7 +2,7 @@ import streamlit as st
 import model_training
 import pickle
 
-model = pickle.load(open('model.pkl', 'rb'))
+# model = pickle.load(open('model.pkl', 'rb'))
 
 st.header('Enter questions to check if they are duplicate')
 
