@@ -16,4 +16,4 @@ if st.button('Check'):
     if result:
         st.header('They are duplicate questions')
     else:
-        st.header('They are similar questions')
+        st.header('They are not duplicate questions')
