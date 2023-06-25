@@ -1,0 +1,6 @@
+nltk
+numpy
+fuzzywuzzy
+sklearn
+beautifulsoup4==4.11.1
+spacy==3.5.3
