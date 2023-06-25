@@ -1,6 +1,6 @@
 nltk
 numpy
 fuzzywuzzy
-sklearn
+scikit-learn==1.2.2
 beautifulsoup4==4.11.1
 spacy==3.5.3
